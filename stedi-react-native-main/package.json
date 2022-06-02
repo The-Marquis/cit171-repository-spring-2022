@@ -7,7 +7,7 @@
     "@react-navigation/native": "^6.0.4",
     "bull": "^4.2.0",
     "csv-writer": "^1.6.0",
-    "expo": "~42.0.0",
+    "expo": "~45.0.0",
     "expo-sensors": "~10.2.2",
     "jest": "^27.4.5",
     "node-csv": "^0.1.2",
