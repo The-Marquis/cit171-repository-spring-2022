@@ -19,6 +19,7 @@ const Login = () => {
         value={number}
         placeholder="1234"
         keyboardType="numeric"
+        secureTextEntry={true}
       />
     </SafeAreaView>
   );
@@ -33,4 +34,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default UselessTextInput;
+export default Login;
